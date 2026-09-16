@@ -1,0 +1,6 @@
+{
+  "name": "Iman Travel",
+  "description": "Your trusted travel partner for easy bookings, exciting destinations and unforgettable journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
